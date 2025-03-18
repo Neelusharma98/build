@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6b0f0881.css",
+    "main.js": "/static/js/main.8a8b7c78.js",
+    "static/js/787.7e37d1a3.chunk.js": "/static/js/787.7e37d1a3.chunk.js",
+    "static/media/silder2.jpg": "/static/media/silder2.3f67069fc0b4441629aa.jpg",
+    "static/media/logImage.png": "/static/media/logImage.e4ee72d053a2fe77cc18.png",
+    "static/media/health-banner.png": "/static/media/health-banner.c8023486998e25d7a34a.png",
+    "static/media/profile.webp": "/static/media/profile.aead958b379c686a50a3.webp",
+    "static/media/slider3.webp": "/static/media/slider3.6603ec812a803ce981c9.webp",
+    "static/media/Screenshot from 2023-11-24 09-33-37.png": "/static/media/Screenshot from 2023-11-24 09-33-37.c5af1fc41234d1576279.png",
+    "static/media/login.jpg": "/static/media/login.e63bf4d1d7213525b24e.jpg",
+    "static/media/Insurance.png": "/static/media/Insurance.205a4e95c80aac2303eb.png",
+    "index.html": "/index.html",
+    "main.6b0f0881.css.map": "/static/css/main.6b0f0881.css.map",
+    "main.8a8b7c78.js.map": "/static/js/main.8a8b7c78.js.map",
+    "787.7e37d1a3.chunk.js.map": "/static/js/787.7e37d1a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b0f0881.css",
+    "static/js/main.8a8b7c78.js"
+  ]
+}
